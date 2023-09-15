@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: "Shankar Karuppayah"
-baseURL: "https://github.com/kshankar/sk-acad-site" # Website URL
+baseURL: "https://www.kshankar.com/" # Website URL
 
 ############################
 ## LANGUAGE
