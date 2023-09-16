@@ -5,7 +5,6 @@ date: 2022-10-24
 type: landing
 
 sections:
-
   - block: about.biography
     id: about
     content:
@@ -87,7 +86,7 @@ sections:
             * Conducting simulation and evaluation of WMNs
     design:
       columns: '2'
-  - block: accomplishments
+  - block: Accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments'
@@ -167,6 +166,8 @@ sections:
           date_start: "2019-01-23"
           date_end: ""
           description: ""
+
+    
     design:
       columns: '2'
   - block: collection
@@ -175,7 +176,7 @@ sections:
       title: Recent Posts
       subtitle: ''
       text: ''
-      # Choose how many pages you would like to display (0 = all pages)
+      # Choose how many pages you would like to display (0 :  all pages)
       count: 5
       # Filter on criteria
       filters:
@@ -226,6 +227,17 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: collection
+    id: featured
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
+  - block: collection
     content:
       title: Recent Publications
       text: |-
@@ -248,18 +260,18 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
       email: kshankar@usm.my
       phone: +604 653 4632
       appointment_url: 'https://calendly.com'
       address:
-        street:  National Advanced IPv6 Centre (NAv6), Level 6, School of Computer Sciences Building, Universiti Sains Malaysia
-        city: USM
-        region: Penang
-        postcode: '11800'
-        country: Malaysia
-        country_code: MY
+      street: National Advanced IPv6 Centre (NAv6), Level 6, School of Computer Sciences Building, Universiti Sains Malaysia
+      city: USM
+      region: Penang
+      postcode: '11800'
+      country: Malaysia
+      country_code: MY
       directions: Take the lift to the 6th floor and turn right at the entrance to head over to NAv6.
+
       contact_links:
       - icon: twitter
         icon_pack: fab
