@@ -307,7 +307,8 @@ sections:
     id: services
     content:
       title: Services
-
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:
