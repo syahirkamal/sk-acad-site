@@ -88,59 +88,58 @@ sections:
             * Conducting simulation and evaluation of WMNs
     design:
       columns: '2'
-  - blcok: teaching
+  - block: teaching
     id: teaching 
     content:
-      title: Teaching
-      subtitle: and Supervision
+      title: Teaching and Supervision
       items: 
-      - year: "2020 @ TU Darmstadt"
-        courses:
-          - "PNS: Protection in Networked Systems ‒ Trust, Resilience, and Privacy"
-          - "Seminar: Protection in Infrastructures and Networks (PIN)"
-        responsibilities:
-          - "Topic supervisor"
-          - "Thesis Supervision"
-          - "Bachelor Students Traineeship / Bachelorpraktikum"
-          - "Internet Praktikum"
+        - year: "2020 @ TU Darmstadt"
+          courses:
+            - "PNS: Protection in Networked Systems ‒ Trust, Resilience, and Privacy"
+            - "Seminar: Protection in Infrastructures and Networks (PIN)"
+          responsibilities:
+            - "Topic supervisor"
+            - "Thesis Supervision"
+            - "Bachelor Students Traineeship / Bachelorpraktikum"
+            - "Internet Praktikum"
 
-      - year: "2019"
-        courses:
-          - "Introduction To Real Time Operating Systems And Applications"
-          - "Internet Governance"
-          - "Internet Security"
-          - "Dissertation"
+        - year: "2019"
+          courses:
+            - "Introduction To Real Time Operating Systems And Applications"
+            - "Internet Governance"
+            - "Internet Security"
+            - "Dissertation"
 
-      - year: "2018"
-        courses:
-          - "Introduction To Real Time Operating Systems And Applications"
-          - "Special Topics in Next Generation Internet"
-          - "Dissertation"
-          - "Final Year Project - CS@USM"
-          - "Internship / Research Project"
+        - year: "2018"
+          courses:
+            - "Introduction To Real Time Operating Systems And Applications"
+            - "Special Topics in Next Generation Internet"
+            - "Dissertation"
+            - "Final Year Project - CS@USM"
+            - "Internship / Research Project"
 
-      - year: "2017"
-        courses:
-          - "Introduction To Real Time Operating Systems And Applications"
-          - "Special Topics in Next Generation Internet"
-          - "Internet Communications Protocol"
-          - "Dissertation"
-          - "Final Year Project - CS@USM"
-          - "Internship / Research Project"
+        - year: "2017"
+          courses:
+            - "Introduction To Real Time Operating Systems And Applications"
+            - "Special Topics in Next Generation Internet"
+            - "Internet Communications Protocol"
+            - "Dissertation"
+            - "Final Year Project - CS@USM"
+            - "Internship / Research Project"
 
-      - year: "2016 @ USM"
-        courses:
-          - "Internet Communications Protocol"
-          - "Final Year Project - CS@USM"
-          - "Internship / Research Project"
+        - year: "2016 @ USM"
+          courses:
+            - "Internet Communications Protocol"
+            - "Final Year Project - CS@USM"
+            - "Internship / Research Project"
 
-      - year: "Prior to 2016 @ TU Darmstadt"
-        courses:
-          - "Simulation and Evaluation of Computer Networks (SECoN)"
-          - "Seminar Telekooperation"
-          - "Seminar Security, Privacy, and Trust"
-          - "Projectpraktikum"
-          - "Bachelor Students Traineeship / Bachelorpraktikum"
+        - year: "Prior to 2016 @ TU Darmstadt"
+          courses:
+            - "Simulation and Evaluation of Computer Networks (SECoN)"
+            - "Seminar Telekooperation"
+            - "Seminar Security, Privacy, and Trust"
+            - "Projectpraktikum"
+            - "Bachelor Students Traineeship / Bachelorpraktikum"
 
 
   - block: accomplishments
