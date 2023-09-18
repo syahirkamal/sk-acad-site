@@ -91,11 +91,8 @@ sections:
   - block: teaching
     id: teaching 
     content:
-      title: Teaching 
+      title: Teaching
       subtitle: and Supervision
-
-    design:
-      columns: '2'
 
   - block: accomplishments
     id: accomplishments
@@ -257,12 +254,10 @@ sections:
     design:
       columns: '2'
   - block: services
-    id: services
+    id: services 
     content:
       title: Services
 
-    design:
-      columns: '2'
   - block: contact
     id: contact
     content:
