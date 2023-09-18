@@ -93,7 +93,47 @@ sections:
     content:
       title: Teaching
       subtitle: and Supervision
+      items: 
+        - ## **2020 @ TU Darmstadt**
+        - PNS: Protection in Networked Systems ‒ Trust, Resilience, and Privacy
+        - Seminar: Protection in Infrastructures and Networks (PIN)
+        - Topic supervisor
+        - Thesis Supervision
+        - Bachelor Students Traineeship / Bachelorpraktikum 
+        - Internet Praktikum
 
+        ## **2019**
+        - Introduction To Real Time Operating Systems And Applications
+        - Internet Governance 
+        - Internet Security
+        - Dissertation
+
+        ## **2018**
+        - Introduction To Real Time Operating Systems And Applications
+        - Special Topics in Next Generation Internet 
+        - Dissertation
+        - Final Year Project - CS@USM
+        - Internship / Research Project
+
+        ## **2017**
+        - Introduction To Real Time Operating Systems And Applications
+        - Special Topics in Next Generation Internet 
+        - Internet Communications Protocol
+        - Dissertation
+        - Final Year Project - CS@USM
+        - Internship / Research Project
+
+        ## **2016 @ USM**
+        - Internet Communications Protocol
+        - Final Year Project - CS@USM
+        - Internship / Research Project
+
+        ## **Prior to 2016 @ TU Darmstadt**
+        - Simulation and Evaluation of Computer Networks (SECoN)
+        - Seminar Telekooperation
+        - Seminar Security, Privacy, and Trust
+        - Projectpraktikum
+        - Bachelor Students Traineeship / Bachelorprakt
   - block: accomplishments
     id: accomplishments
     content:
