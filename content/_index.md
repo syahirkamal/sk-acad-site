@@ -303,11 +303,11 @@ sections:
     design:
       columns: '2'
 
-  - block: services
+  - blcok: services
     id: services
     content:
       title: Services
-      
+
   - block: contact
     id: contact
     content:
