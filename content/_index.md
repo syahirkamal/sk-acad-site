@@ -88,7 +88,7 @@ sections:
             * Conducting simulation and evaluation of WMNs
     design:
       columns: '2'
-  - blcok: teaching
+  - block: teaching
     id: teaching 
     content:
       title: Teaching
@@ -258,7 +258,7 @@ sections:
     design:
       columns: '2'
 
-  - blcok: services
+  - block: services
     id: services
     content:
       title: Services
