@@ -134,6 +134,9 @@ sections:
         - Seminar Security, Privacy, and Trust
         - Projectpraktikum
         - Bachelor Students Traineeship / Bachelorprakt
+
+    design:
+      columns: '2'  
   - block: accomplishments
     id: accomplishments
     content:
