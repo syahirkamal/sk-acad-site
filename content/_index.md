@@ -308,7 +308,7 @@ sections:
     content:
       title: Services
       items:
-        - title : **Journal Reviewer**
+        text: **Journal Reviewer**
         - description: |
           - [IEEE Transactions on Information Forensics & Security](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206) 
           - [ACM Computing Surveys](https://dl.acm.org/journal/csur)
