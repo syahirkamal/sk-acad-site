@@ -93,7 +93,6 @@ sections:
     content:
       title: Teaching 
       subtitle: and Supervision
-      items:
 
     design:
       columns: '2'
@@ -261,7 +260,6 @@ sections:
     id: services
     content:
       title: Services
-      items:
 
     design:
       columns: '2'
