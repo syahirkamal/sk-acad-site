@@ -307,6 +307,19 @@ sections:
     id: services
     content:
       title: Services
+      items:
+        - title : **Journal Reviewer**
+        - description: |
+          - [IEEE Transactions on Information Forensics & Security](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206) 
+          - [ACM Computing Surveys](https://dl.acm.org/journal/csur)
+          - [Computer Networks - Elsevier](https://www.journals.elsevier.com/computer-networks)
+          - [Information Systems - Elsevier](https://www.journals.elsevier.com/information-systems) 
+          - [IEEE Access](https://ieeeaccess.ieee.org/)
+          - [International Journal of Network Management](https://onlinelibrary.wiley.com/journal/10991190)
+          - [IEEE Communications Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=35)
+          - [Journal of Information Security and Applications - Elsevier](https://www.journals.elsevier.com/journal-of-information-security-and-applications)
+          - [Peer J Computer Science](https://peerj.com/computer-science/)
+
     design:
       columns: '2'
   - block: contact
