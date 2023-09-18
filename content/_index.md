@@ -257,6 +257,14 @@ sections:
       title: Popular Topics
     design:
       columns: '2'
+  - block: services
+    id: services
+    content:
+      title: Services
+      items:
+
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:
