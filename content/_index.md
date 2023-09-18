@@ -296,10 +296,6 @@ sections:
       title: Popular Topics
     design:
       columns: '2'
-  - block: services
-    id: services 
-    content:
-      title: Services
 
   - block: contact
     id: contact
