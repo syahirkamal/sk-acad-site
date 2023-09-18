@@ -94,7 +94,7 @@ sections:
       title: Teaching 
       subtitle: and Supervision
       items:
-        ## **2020 @ TU Darmstadt**
+        - ## **2020 @ TU Darmstadt**
         - PNS: Protection in Networked Systems ‒ Trust, Resilience, and Privacy
         - Seminar: Protection in Infrastructures and Networks (PIN)
             - Topic supervisor
@@ -102,7 +102,7 @@ sections:
         - Bachelor Students Traineeship / Bachelorpraktikum
         - Internet Praktikum
 
-        ## **2019**
+        - ## **2019**
         - Introduction To Real Time Operating Systems And Applications
         - Internet Governance
         - Internet Security
