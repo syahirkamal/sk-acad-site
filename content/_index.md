@@ -98,6 +98,7 @@ sections:
         -
           title: "2020 @ TSU Darmstadt"
           company: "TU Darmstadt"
+          company_url: ""
           location: "Darmstadt, Germany"
           date_start: "2020"
           date_end: ""
