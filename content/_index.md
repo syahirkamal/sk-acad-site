@@ -88,29 +88,13 @@ sections:
             * Conducting simulation and evaluation of WMNs
     design:
       columns: '2'
-  - block : experience
-    id: teaching
-    content: 
-      title: Teaching 
-      subtitle: and Supervision
-      date_format: 2006
-      items:
-        - title: "2020 @ TSU Darmstadt"
-          company: "TU Darmstadt"
-          company_url: ""
-          location: "Darmstadt, Germany"
-          date_format: 2006
-          date_start: "2020-01-01"
-          date_end: ""
-          description: |
-
-    design: 
-      columns: '2'
 
   - block: markdown
+    id: teaching
     content:
-      title: My title
-      subtitle: My subtitle
+      title: Teaching 
+      subtitle: and Supervision
+      date_format: Jan 2006
       text: |
         ## **2020 @ TU Darmstadt**
         - PNS: Protection in Networked Systems ‒ Trust, Resilience, and Privacy
