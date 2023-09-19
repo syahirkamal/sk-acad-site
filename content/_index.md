@@ -323,6 +323,10 @@ sections:
         - International Conference on Availability, Reliability and Security (ARES) - [2017](https://www.ares-conference.eu/ares2017/conference2017/index.html), [2020](https://www.ares-conference.eu/)
         - International Conference on Computing and Informatics (ICOCI) - [2017](http://www.icoci.cms.net.my/icoci2017/)
         - IEEE/IFIP Workshop on Security for Emerging Distributed Network Technologies (DISSECT) - [2017](http://www.inf.ufrgs.br/dissect/2017/), [2020](http://www.inf.ufrgs.br/dissect/2020/)
+
+    design:
+      columns: '2'
+      
   - block: tag_cloud
     content:
       title: Popular Topics
