@@ -93,7 +93,7 @@ sections:
     content: 
       title: Teaching 
       subtitle: and Supervision
-      date_format: Jan 2006
+      date_format: 2006
       items:
         - title: "2020 @ TSU Darmstadt"
           company: "TU Darmstadt"
