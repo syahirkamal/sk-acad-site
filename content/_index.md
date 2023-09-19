@@ -95,8 +95,7 @@ sections:
       subtitle: and Supervision
       date_format: Jan 2006
       items:
-        -
-          title: "2020 @ TSU Darmstadt"
+        - title: "2020 @ TSU Darmstadt"
           company: "TU Darmstadt"
           company_url: ""
           location: "Darmstadt, Germany"
