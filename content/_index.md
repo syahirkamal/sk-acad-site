@@ -90,7 +90,6 @@ sections:
       columns: '2'
   - block: teaching
     id: teaching
-    content:
 
     design: 
       columns: '2'
