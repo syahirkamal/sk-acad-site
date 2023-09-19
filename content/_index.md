@@ -88,7 +88,12 @@ sections:
             * Conducting simulation and evaluation of WMNs
     design:
       columns: '2'
+  - block: teaching
+    id: teaching
+    content:
 
+    design: 
+      columns: '2'
 
   - block: accomplishments
     id: accomplishments
