@@ -111,8 +111,12 @@ sections:
     content:
       title: My title
       subtitle: My subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      text: |
+        **2020**
+        * TU Dumster 
+        * Germany
+        * 2020
+        
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
