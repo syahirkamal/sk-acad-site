@@ -100,9 +100,9 @@ sections:
           company: "TU Darmstadt"
           company_url: ""
           location: "Darmstadt, Germany"
-          date_start: "2020"
+          date_start: "2020-01-01"
           date_end: ""
-          description: 
+          description: |
 
     design: 
       columns: '2'
