@@ -88,7 +88,7 @@ sections:
             * Conducting simulation and evaluation of WMNs
     design:
       columns: '2'
-  - block : experience 
+  - block : portfolio
     id: teaching
     content: 
       title: Teaching
