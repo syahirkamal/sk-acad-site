@@ -300,10 +300,9 @@ sections:
       view: citation
 
   - block: markdown
-    id: teaching
+    id: services
     content:
-      title: Teaching 
-      subtitle: and Supervision
+      title: Services
       date_format: Jan 2006
       text: |
         ## **Journal Reviewer**
