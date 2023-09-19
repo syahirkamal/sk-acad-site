@@ -99,6 +99,7 @@ sections:
           company: "TU Darmstadt"
           company_url: ""
           location: "Darmstadt, Germany"
+          date_format: 2006
           date_start: "2020-01-01"
           date_end: ""
           description: |
