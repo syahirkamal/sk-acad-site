@@ -88,14 +88,12 @@ sections:
             * Conducting simulation and evaluation of WMNs
     design:
       columns: '2'
-  - blcok: teaching
+  - block: teaching
     id: teaching
-    content: 
+    content:
       title: Teaching
       subtitle: and Supervision
-
-      items: 
-
+      items:
         - title: 2020 @ TU Darmstadt
           company: TU Darmstadt 
           description: |
@@ -107,6 +105,7 @@ sections:
             - Internet Praktikum
     design: 
       columns: '2'
+
 
   - block: accomplishments
     id: accomplishments
