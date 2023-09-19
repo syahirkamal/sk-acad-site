@@ -282,6 +282,7 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+
   - block: collection
     id: featured
     content:
@@ -297,6 +298,32 @@ sections:
     design:
       columns: '2'
       view: citation
+
+  - block: markdown
+    id: teaching
+    content:
+      title: Teaching 
+      subtitle: and Supervision
+      date_format: Jan 2006
+      text: |
+        ## **Journal Reviewer**
+        - [IEEE Transactions on Information Forensics & Security](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206) 
+        - [ACM Computing Surveys](https://dl.acm.org/journal/csur)
+        - [Computer Networks - Elsevier](https://www.journals.elsevier.com/computer-networks)
+        - [Information Systems - Elsevier](https://www.journals.elsevier.com/information-systems) 
+        - [IEEE Access](https://ieeeaccess.ieee.org/)
+        - [International Journal of Network Management](https://onlinelibrary.wiley.com/journal/10991190)
+        - [IEEE Communications Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=35)
+        - [Journal of Information Security and Applications - Elsevier](https://www.journals.elsevier.com/journal-of-information-security-and-applications)
+        - [Peer J Computer Science](https://peerj.com/computer-science/)
+
+        ## **TPC/Reviewer**
+        - Center for Communication, Media and Information technologies (CMI), Aalborg University - [2019](https://www.conf.cmi.aau.dk/12th+CMI+conference+2019/)
+        - International Conference on Advances in Computing, Communication & Automation (ICACCA) - 2018
+        - International Conference on Parallel, Distributed and Grid Computing (PDGC) - [2018](http://www.juit.ac.in/pdgc-2018/index1.php) 
+        - International Conference on Availability, Reliability and Security (ARES) - [2017](https://www.ares-conference.eu/ares2017/conference2017/index.html), [2020](https://www.ares-conference.eu/)
+        - International Conference on Computing and Informatics (ICOCI) - [2017](http://www.icoci.cms.net.my/icoci2017/)
+        - IEEE/IFIP Workshop on Security for Emerging Distributed Network Technologies (DISSECT) - [2017](http://www.inf.ufrgs.br/dissect/2017/), [2020](http://www.inf.ufrgs.br/dissect/2020/)
   - block: tag_cloud
     content:
       title: Popular Topics
