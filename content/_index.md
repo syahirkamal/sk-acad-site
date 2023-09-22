@@ -342,7 +342,7 @@ sections:
       filters:
         folders:
           - recognition
-        exclude_featured: true
+        exclude_featured: false
     design:
       columns: '2'
       view: compact
