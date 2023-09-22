@@ -15,6 +15,9 @@ main:
     weight: 40
   - name: Accomplishments
     url: '#accomplishments'
+  - name: Recognition
+    url: '#recognition'
+    weight: 45
     weight: 50
   - name: Experience
     url: '#experience'
@@ -22,12 +25,15 @@ main:
   - name: Teaching
     url: '#teaching'
     weight: 60
+  - name: Grants
+    url: '#grants'
+    weight: 65
   - name: Projects
     url: '#projects'
-    weight: 65
+    weight: 70
   - name: Services
     url: '#services'
-    weight: 65
+    weight: 75
   - name: Contact
     url: '#contact'
     weight: 100
