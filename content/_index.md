@@ -331,7 +331,7 @@ sections:
       columns: '2'
       view: citation
 
-  - block: collection
+  - block: accomplishment
     id: recognition
     content:
       title: Recognition
