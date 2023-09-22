@@ -231,7 +231,6 @@ sections:
     id: grants
     content:
       title: Grants
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
       filters:
         # Folders to display content from
         folders:
