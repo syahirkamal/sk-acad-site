@@ -1,5 +1,6 @@
 ---
 title: Detecting Sensor Nodes Deployed in P2P Botnets Using Graph-Theoretic Approaches
+sumnmary : Detecting Sensor Nodes Deployed in P2P Botnets Using Graph-Theoretic Approaches
 tags:
 - Completed
 
