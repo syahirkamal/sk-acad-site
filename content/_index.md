@@ -331,6 +331,21 @@ sections:
       columns: '2'
       view: citation
 
+  - block: collection
+    id: recognition
+    content:
+      title: Recognition
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant recognition by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - recognition
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
   - block: markdown
     id: services
     content:
