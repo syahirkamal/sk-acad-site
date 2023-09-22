@@ -334,18 +334,42 @@ sections:
   - block: accomplishments
     id: recognition
     content:
-      title: Recognition
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant recognition by [filtering recognition](./recognition/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - recognition
-        exclude_featured: false
-    design:
-      columns: '2'
-      view: compact
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Recognition'
+      subtitle:
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - organization: "IEEE Indonesia"
+          organization_url: "https://ieee.id/"
+          title: "Secure and Intelligent Future: The Confluence of AI, IoT, and Cyber Resilience - Online Webinar (International)"
+          url: "https://socs.nusaputra.ac.id/publication/"
+          certificate_url: ""
+          date_start: "2023"
+          date_end: ""
+          description: |
+            Invited Speaker, The P2P Botnet Threat Mitigation Lifecycle, Online/Remote, IEEE Indonesia/Universitas Nusa Putra, Secure and Intelligent Future: The Confluence of AI, IoT, and Cyber Resilience - Online Webinar (International)
+
+#  - block: accomplishments
+#    id: recognition
+#    content:
+#      title: Recognition
+#      text: |-
+#        {{% callout note %}}
+#        Quickly discover relevant recognition by [filtering recognition](./recognition/).
+#        {{% /callout %}}
+#      filters:
+#        folders:
+#          - recognition
+#        exclude_featured: false
+#    design:
+#      columns: '2'
+#      view: compact
 
   - block: markdown
     id: services
