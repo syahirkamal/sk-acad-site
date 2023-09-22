@@ -337,7 +337,7 @@ sections:
       title: Recognition
       text: |-
         {{% callout note %}}
-        Quickly discover relevant recognition by [filtering publications](./recognition/).
+        Quickly discover relevant recognition by [filtering recognition](./recognition/).
         {{% /callout %}}
       filters:
         folders:
@@ -345,7 +345,8 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: citation
+      view: compact
+
   - block: markdown
     id: services
     content:
