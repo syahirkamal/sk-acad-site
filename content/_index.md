@@ -331,29 +331,16 @@ sections:
       columns: '2'
       view: citation
 
-  - block: accomplishments
+  - block: markdown
     id: recognition
     content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Recognition'
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
+      title: Recognition 
       date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - organization: "IEEE Indonesia"
-          organization_url: "https://ieee.id/"
-          title: "Secure and Intelligent Future: The Confluence of AI, IoT, and Cyber Resilience - Online Webinar (International)"
-          url: "https://socs.nusaputra.ac.id/publication/"
-          certificate_url: ""
-          date_start: "2023"
-          date_end: ""
-          description: |
-            Invited Speaker, The P2P Botnet Threat Mitigation Lifecycle, Online/Remote, IEEE Indonesia/Universitas Nusa Putra, Secure and Intelligent Future: The Confluence of AI, IoT, and Cyber Resilience - Online Webinar (International)
+      text: |
+        ## **2023@IEEE Indonesia/Universitas Nusa Putra**
+        - Invited Speaker
+        - The P2P Botnet Threat Mitigation Lifecycle
+        - Secure and Intelligent Future: The Confluence of AI, IoT, and Cyber Resilience - Online Webinar
 
 #  - block: accomplishments
 #    id: recognition
