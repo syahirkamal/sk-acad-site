@@ -341,6 +341,9 @@ sections:
         - Invited Speaker
         - The P2P Botnet Threat Mitigation Lifecycle
         - Secure and Intelligent Future: The Confluence of AI, IoT, and Cyber Resilience - Online Webinar
+    design:
+      columns: '2'
+      view: compact
 
 #  - block: accomplishments
 #    id: recognition
