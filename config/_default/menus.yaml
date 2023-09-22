@@ -15,9 +15,9 @@ main:
     weight: 40
   - name: Accomplishments
     url: '#accomplishments'
+    weight: 45
   - name: Recognition
     url: '#recognition'
-    weight: 45
     weight: 50
   - name: Experience
     url: '#experience'
