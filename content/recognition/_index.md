@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Recognition
 cms_exclude: true
 
 # View.
