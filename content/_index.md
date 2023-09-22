@@ -337,7 +337,7 @@ sections:
       title: Recognition
       text: |-
         {{% callout note %}}
-        Quickly discover relevant recognition by [filtering publications](./publication/).
+        Quickly discover relevant recognition by [filtering publications](./recognition/).
         {{% /callout %}}
       filters:
         folders:
