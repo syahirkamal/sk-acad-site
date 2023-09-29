@@ -327,6 +327,7 @@ sections:
         folders:
           - publication
         exclude_featured: false
+      sort_by: 'Date'
     design:
       columns: '2'
       view: citation
