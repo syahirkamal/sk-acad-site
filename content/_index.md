@@ -306,8 +306,8 @@ sections:
           tag: Cyber Security
         - name: Internet of Things
           tag: Internet of Things 
-        - name: Other
-          tag: Demo
+        - name: Botnets
+          tag: Botnets
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
