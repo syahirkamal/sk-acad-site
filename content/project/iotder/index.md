@@ -27,12 +27,11 @@ url_video: ""
 slides: example
 ---
 
-Status : Aactive
+Status : Active
 Level : International  
 Category : External Agencies  
 
-Project Duration: **01/01/2023-
-3J/12/2023**
+Project Duration: **01/01/2023-30/12/2023**
    
 Project Member:
 - Assoc. Prof. Dr. Selvakumar Manickam
