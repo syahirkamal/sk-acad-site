@@ -36,7 +36,7 @@ Project Duration: **30/12/2016-30/11/2018**
 Project Member:
 - Ts. Dr. Shankar Karuppayah
 - Rosni Binti Abdullah@Mustafa
-- Dr. Selvakumar Manickam 
+- Assoc. Prof. Dr. Selvakumar Manickam
 
 Publications:
 (to be added)
