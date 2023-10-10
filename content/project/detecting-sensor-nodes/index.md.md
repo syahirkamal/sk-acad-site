@@ -29,7 +29,6 @@ slides: example
 Status : Completed
 Level : University 
 Category : Short Term Grant 
-Budget : RM 27,407.00
   
 Project Duration: **30/12/2016-30/11/2018**
    
