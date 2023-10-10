@@ -3,7 +3,7 @@ title: DESIGNING AND DEVELOPING  A	SECURITY OPERATIONS	CENTER AS A
 SERVICE	SENSOR PROTPTYPE			
 summary: Designing and developing A Security Operations Center as a Service sensor prototype
 tags:
-- SOC
+- Other
 date: "2023-11-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
