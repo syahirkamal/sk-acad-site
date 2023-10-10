@@ -2,7 +2,7 @@
 title: DESIGNING AND DEVELOPING A SECURITY OPERATIONS CENTER AS A SERVICE SENSOR PROTOTYPE
 sumnmary : A double tax grant to design and developing a SOC as a service sensor prototype.
 tags:
-- "*"
+- SOC
 
 date: "2023-11-30T00:00:00Z"
 
