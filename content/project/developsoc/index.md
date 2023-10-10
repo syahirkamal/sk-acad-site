@@ -29,7 +29,8 @@ slides: example
  Project Duration: **01/04/2023-31/03/2024**
  
  Project Members:
- - Assoc. Prof. Dr. Selvakumar Manickam (PI)
+
  - Dr. Shankar Karuppayah
+ - Assoc. Prof. Dr. Selvakumar Manickam
  - Dr. Mohammed F.r. Anbar
 
