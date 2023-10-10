@@ -29,7 +29,7 @@ slides: example
 Status : Completed
 Level : University 
 Category : Short Term Grant 
-  
+
 Project Duration: **30/12/2016-30/11/2018**
    
 Project Member:
