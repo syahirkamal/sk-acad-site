@@ -1,11 +1,10 @@
 ---
-title: A STUDY OF IoT CONTROLLER DEPLOYMENT MODEL IN THE DISTRIBUTED
-ENERGY RESOURCES ENVIRONMENT
+title: A STUDY OF IoT CONTROLLER DEPLOYMENT MODEL IN THE DISTRIBUTED ENERGY RESOURCES ENVIRONMENT
 sumnmary : A grant to study IOT deployment model in distributed energy resources environment. 
 tags:
 - Internet of Things
 
-date: "2023-11-30T00:00:00Z"
+date: "2023-1-1T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
