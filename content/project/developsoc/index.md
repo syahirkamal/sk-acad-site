@@ -4,7 +4,7 @@ sumnmary : A double tax grant to design and developing a SOC as a service sensor
 tags:
 - SOC
 
-date: "2023-11-30T00:00:00Z"
+date: "2023-04-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
