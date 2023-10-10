@@ -1,6 +1,5 @@
 ---
 title: A STUDY OF IoT CONTROLLER DEPLOYMENT MODEL IN THE DISTRIBUTED ENERGY RESOURCES ENVIRONMENT
-sumnmary : A grant to study IOT deployment model in distributed energy resources environment. 
 tags:
 - Internet of Things
 
