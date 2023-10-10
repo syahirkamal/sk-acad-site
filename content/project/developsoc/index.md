@@ -4,6 +4,7 @@ SERVICE	SENSOR PROTPTYPE
 summary: Designing and developing A Security Operations Center as a Service sensor prototype
 tags:
 - Other
+
 date: "2023-11-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -25,6 +26,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+
 Project Duration: **01/04/2023-31/03/2024**
  
 Project Members:
