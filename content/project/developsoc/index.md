@@ -1,7 +1,6 @@
 ---
-title: DESIGNING AND DEVELOPING  A	SECURITY OPERATIONS	CENTER AS A			
-SERVICE	SENSOR PROTPTYPE			
-summary: Designing and developing A Security Operations Center as a Service sensor prototype
+title: DESIGNING AND DEVELOPING A SECURITY OPERATIONS CENTER AS A SERVICE SENSOR PROTOTYPE
+sumnmary : A double tax grant to design and developing a SOC as a service sensor prototype.
 tags:
 - Other
 
@@ -27,12 +26,16 @@ url_video: ""
 slides: example
 ---
 
+Status : Active
+Level : Industry 
+Category : Double Tx
+
 Project Duration: **01/04/2023-31/03/2024**
- 
-Project Members:
-- Dr. Shankar Karuppayah
+   
+Project Member:
+- Ts. Dr. Shankar Karuppayah
 - Assoc. Prof. Dr. Selvakumar Manickam
-- Dr. Mohammed F.r. Anbar
+- Dr. Mohammed F.r. Anbar 
 
 Publications:
 (to be added)
