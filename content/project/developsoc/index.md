@@ -25,16 +25,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 ---
 
-Status : Active
-Level : Industry 
-Category : Double Tx
-
-Project Duration: **01/04/2023-31/03/2024**
-   
-Project Member:
-- Ts. Dr. Shankar Karuppayah
-- Assoc. Prof. Dr. Selvakumar Manickam
-- Dr. Mohammed F.r. Anbar 
-
-Publications:
-(to be added)
