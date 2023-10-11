@@ -1,5 +1,6 @@
 ---
 title: DESIGNING AND DEVELOPING A SECURITY OPERATIONS CENTER AS A SERVICE SENSOR PROTOTYPE
+summary: A grant to design and develop a SOC as a Service Sensor Protoype.
 tags:
 - SOC
 
