@@ -1,6 +1,6 @@
 ---
 title: DETECTING SENSOR NODES DEPLOYED IN P2P BOTNETS USING GRAPH-THEORETIC APPROACHES
-sumnmary : A short term grant to detect sensor nodes deployed in P2P botnets using graph-theoretic approaches.
+sumnmary : A grant to detect sensor nodes deployed in P2P botnets using graph-theoretic approaches.
 tags:
 - Botnets
 
