@@ -1,9 +1,10 @@
 ---
 title: A STUDY OF IoT CONTROLLER DEPLOYMENT MODEL IN THE DISTRIBUTED ENERGY RESOURCES ENVIRONMENT
+summary: A grant to study IoT controller deployment model in distributed energy resources environment.
 tags:
-- Internet of Things
+- Botnets
 
-date: "2023-1-1T00:00:00Z"
+date: "2023-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -22,18 +23,17 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
 ---
 
-Status : Active
-Level : International  
-Category : External Agencies  
+
+Status : Ongoing
 
 Project Duration: **01/01/2023-30/12/2023**
    
 Project Member:
-- Assoc. Prof. Dr. Selvakumar Manickam
+- Assoc. Prof. Dr. Selvakumar Manickam(PI)
 - Ts. Dr. Shankar Karuppayah
+
 
 Publications:
 (to be added)
