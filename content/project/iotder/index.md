@@ -2,7 +2,7 @@
 title: A STUDY OF IoT CONTROLLER DEPLOYMENT MODEL IN THE DISTRIBUTED ENERGY RESOURCES ENVIRONMENT
 summary: A grant to study IoT controller deployment model in distributed energy resources environment.
 tags:
-- Botnets
+- Internet of Things
 
 date: "2023-01-01T00:00:00Z"
 
