@@ -1,7 +1,7 @@
 ---
 title: User-mobility optimized routing protocol for enabling autonomous and self-managing
 disaster communication network.
-summary: A TRGS tooptimixe routing protocol to enable autonomous and self-managing disaster comunication network.
+summary: A TRGS to optimize routing protocol to enable autonomous and self-managing disaster comunication network.
 tags:
 - Others
 
