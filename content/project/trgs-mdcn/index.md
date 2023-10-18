@@ -5,7 +5,7 @@ summary: A TRGS tooptimixe routing protocol to enable autonomous and self-managi
 tags:
 - Others
 
-date: "2022-12-0122T00:00:00Z"
+date: "2022-12-2022T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
