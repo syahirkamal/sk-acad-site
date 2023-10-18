@@ -2,7 +2,7 @@
 title: Commcity:Integrated System for Efficient Disaster Management
 summary: A TRGS to create a system for efficient disaster management.
 tags:
-- TRGS
+- Others
 
 date: "2022-12-2022T00:00:00Z"
 
