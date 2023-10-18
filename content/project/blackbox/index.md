@@ -4,7 +4,7 @@ summary: A USM short-term research grant to develop a cyber security monitoring 
 
 tags:
 - Cyber Security
-date: "2022-08-1522T00:00:00Z"
+date: "2022-08-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
