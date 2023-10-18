@@ -276,8 +276,8 @@ sections:
           tag: Internet of Things 
         - name: Botnets
           tag: Botnets
-        - name : SOC 
-          tag : SOC
+        - name : Others 
+          tag : Others
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
