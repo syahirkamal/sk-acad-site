@@ -1,5 +1,5 @@
 ---
-title:  WATCH POWER - A BLACK BOX-BASED CYBER SECURITY MONITORING AGENT DEVICE.
+title:  WATCH POWER A BLACK BOX-BASED CYBER SECURITY MONITORING AGENT DEVICE.
 summary: A USM short-term research grant to develop a cyber security monitoring agent device. 
 tags:
 - Cyber Security
