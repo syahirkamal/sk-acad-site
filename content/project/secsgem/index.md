@@ -1,5 +1,5 @@
 ---
-title:  INTEGRATIVE CONTROL	SOFTWARE FOR SECS/GEM MODULE	
+title:  INTEGRATIVE CONTROL	SOFTWARE FOR SECS/GEM MODULE.
 summary: A USM-Industry Macthing grant to come out with a modular software utilizing SECS/GEM protocol. 
 tags:
 - Others
