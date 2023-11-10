@@ -299,7 +299,7 @@ sections:
         - Course : PNS: Protection in Networked Systems — Trust, Resilience, and Privacy
         - Topic : Understanding the Botnet Threat Mitigation Lifecycle
 
-        ## **2023@CrySyS Lab at Budapest University of Technology and Economics
+        ## **2023@CrySyS Lab at Budapest University of Technology and Economics**
         - Review articles in academic journals, Assessor of Working Papers, Reviewing Books
         - CrySyS dataset of CAN traffic logs containing fabrication and masquerade attacks
       
