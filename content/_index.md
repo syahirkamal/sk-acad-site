@@ -293,6 +293,15 @@ sections:
         ## **2023@HRD Corp**
         - Professional Status Granted as HRDF Accredited Trainer
         - **10/03/2023-10/03/2026**
+
+        ## **2023@TU Darmstadt**
+        - Invited Speaker
+        - Course : PNS: Protection in Networked Systems — Trust, Resilience, and Privacy
+        - Topic : Understanding the Botnet Threat Mitigation Lifecycle
+
+        ## **2023@CrySyS Lab at Budapest University of Technology and Economics
+        - Review articles in academic journals, Assessor of Working Papers, Reviewing Books
+        - CrySyS dataset of CAN traffic logs containing fabrication and masquerade attacks
       
     design:
       columns: '2'
