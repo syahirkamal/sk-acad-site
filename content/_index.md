@@ -289,7 +289,10 @@ sections:
         ## **2023@MRANTI(National)**
         - Accessor
         - MRANTI AUTONOMOUS VEHICLE LIVING LABORATORY CONCEPT PLAN DEVELOPMENT WORKSHOP
-  
+
+        ## **2023@HRD Corp**
+        - Professional Status Granted as HRDF Accredited Trainer
+        - **10/03/2023-10/03/2026**
       
     design:
       columns: '2'
