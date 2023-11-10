@@ -285,6 +285,12 @@ sections:
         - Invited Speaker
         - The P2P Botnet Threat Mitigation Lifecycle
         - Secure and Intelligent Future: The Confluence of AI, IoT, and Cyber Resilience - Online Webinar
+
+        ## **2023@MRANTI(National)**
+        - Accessor
+        - MRANTI AUTONOMOUS VEHICLE LIVING LABORATORY CONCEPT PLAN DEVELOPMENT WORKSHOP
+  
+      
     design:
       columns: '2'
       view: compact
